@@ -2,3 +2,6 @@ misc
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 
 subl --help
+
+git config --global user.name "knutk"
+git config --global user.email knut@kolvig.no
