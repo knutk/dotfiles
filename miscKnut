@@ -5,3 +5,6 @@ subl --help
 
 git config --global user.name "knutk"
 git config --global user.email knut@kolvig.no
+
+# Install CL-tools
+xcode-select --install

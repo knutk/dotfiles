@@ -67,6 +67,7 @@ alias p="cd ~/Projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
+alias mini="ssh knutk@10.0.1.3"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
